@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "D:/Documentos/Cursos/UDEMY_Django_Rest_Framework/drf_env/Scripts/python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintUseMinimalCheckers": false,
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django",
+        "--django-settings-module=moviemate.moviemate.settings"
+    ]
+}
